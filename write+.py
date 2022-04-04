@@ -1,0 +1,12 @@
+# f=open("writefile","w+")
+# f.write("wowkheiuwhw😂😂😂")
+# f.seek(1,0)
+# print(f.tell())
+# print(f.readline())
+# f.close()
+
+f=open("writefile","w+")
+d=f.write("wowkheiuwhw😂😂😂")
+f.read()
+print(d)
+f.close()

@@ -1,0 +1,5 @@
+my_file2 = open("writefile", "w")
+my_file2.write("Abhishek - Gurgaon")
+my_file2.write("Ranveer - Delhi")
+my_file2.write("i love-python")
+my_file2.close()
